@@ -7,7 +7,7 @@ We are using dataset from the National Institute of Diabetes and Kidney Disease.
 All data are female and > 21 years old of PIMA.
 ### Why Pima?
 Pima, North American Indians who traditionally lived along the Gila and Salt rivers in Arizona, U.S., in what was the core area of the prehistoric Hohokam culture. They have the highest prevalence ever recorded in the world<sup>1</sup>.
-## Method
+## Approach
 Logistic regression: 0 for not suffering from DM; 1 for suffering from DM
 
 ## Code 
