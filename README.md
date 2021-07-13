@@ -2,7 +2,7 @@
 
 ## Objective
 To predict whether the person is suffering from Diabetes Mellitus(DM) or not 
-## Data Base
+## Data Collection
 We are using dataset from the National Institute of Diabetes and Kidney Disease.
 All data are female and > 21 years old of PIMA.
 ### Why Pima?
