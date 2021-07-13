@@ -28,6 +28,10 @@ column_names = ["Pregnant", "Glucose", "BP", "Skin", "Insulin", "BMI", "Pedigree
 data_set = pd.read_csv("pima_diabetes.csv", header = None, names=column_names, skiprows=(0,0))
 data_set.head()
 ```
+
+<!--- table1 --->
+
+
 ### Convert data from string to number
 ```
 covert_col = ["Pregnant", "Insulin", "BMI", "Age", "BP", "Pedigree"]
@@ -50,6 +54,7 @@ plt.title('Correlation between features of Pima Datasets')
 plt.ylabel("Feature Values on Y axis")
 plt.xlabel("Feature Values on X axis")
 ```
+<!--- Correlation --->
 
 ### Partition dataset to test and training set 
 ```
@@ -84,6 +89,7 @@ plt.title("Confusion Matrix: Diabetes Patient", y=1.1)
 plt.ylabel("Acutal DMs")
 plt.xlabel("Predicted DMs")
 ```
+<!--- confusion matrix --->
 
 ### ROC curve to check performance
 ```
@@ -94,7 +100,7 @@ plt.plot(fpr, tpr, label="data 1, auc=" + str(auc))
 plt.legend(loc=4)
 plt.show()
 ```
-
+<!--- ROC --->
 
 ## Reference
 <sup>1</sup> Gohdes D: Diabetes in North American Indians and Alaska natives. *In Diabetes in America.* Washington, DC, U.S. Govt. Printing Office, 1995, p. 1683–1701 (NIH publ. no. 95-1468). [Google Scholar](https://care.diabetesjournals.org/lookup/google-scholar?link_type=googlescholar&gs_type=article&q_txt=Gohdes+D%3A+Diabetes+in+North+American+Indians+and+Alaska+natives.+In+Diabetes+in+America.+Washington%2C+DC%2C+U.S.+Govt.+Printing+Office%2C+1995%2C+p.+1683%E2%80%931701+(NIH+publ.+no.+95-1468))
