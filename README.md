@@ -85,7 +85,7 @@ plt.ylabel("Acutal DMs")
 plt.xlabel("Predicted DMs")
 ```
 
-## ROC curve to check performance
+### ROC curve to check performance
 ```
 y_prediction_probability = logistic_function.predict_proba(X_test)[::,1]
 fpr, tpr, _ = metrics.roc_curve(y_test, y_prediction_probability)
