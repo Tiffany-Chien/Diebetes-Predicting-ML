@@ -30,6 +30,7 @@ data_set.head()
 ```
 
 <!--- table1 --->
+![Load Data](https://github.com/Tiffany-Chien/Diebetes-Predicting-ML/blob/main/Stat_Pic/Table1.PNG)
 
 
 ### Convert data from string to number
