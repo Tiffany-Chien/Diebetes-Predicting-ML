@@ -56,6 +56,7 @@ plt.ylabel("Feature Values on Y axis")
 plt.xlabel("Feature Values on X axis")
 ```
 <!--- Correlation --->
+![Correlation_Heat_Map](https://github.com/Tiffany-Chien/Diebetes-Predicting-ML/blob/main/Stat_Pic/CorrelationHeatMap.png)
 
 ### Partition dataset to test and training set 
 ```
