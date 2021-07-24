@@ -93,6 +93,8 @@ plt.xlabel("Predicted DMs")
 ```
 <!--- confusion matrix --->
 
+![Confusion_Matrix](https://github.com/Tiffany-Chien/diebetes-predicting-ML/blob/main/Stat_Pic/ConfusionMatrix.png)
+
 ### ROC curve to check performance
 ```
 y_prediction_probability = logistic_function.predict_proba(X_test)[::,1]
