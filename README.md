@@ -109,3 +109,5 @@ plt.show()
 ## Reference
 <sup>1</sup> Gohdes D: Diabetes in North American Indians and Alaska natives. *In Diabetes in America.* Washington, DC, U.S. Govt. Printing Office, 1995, p. 1683–1701 (NIH publ. no. 95-1468). [Google Scholar](https://care.diabetesjournals.org/lookup/google-scholar?link_type=googlescholar&gs_type=article&q_txt=Gohdes+D%3A+Diabetes+in+North+American+Indians+and+Alaska+natives.+In+Diabetes+in+America.+Washington%2C+DC%2C+U.S.+Govt.+Printing+Office%2C+1995%2C+p.+1683%E2%80%931701+(NIH+publ.+no.+95-1468))
 
+## Credits
+1. [Pima Indians Diabetes - EDA & Prediction (0.906)](https://www.kaggle.com/vincentlugat/pima-indians-diabetes-eda-prediction-0-906#7.-Credits)
